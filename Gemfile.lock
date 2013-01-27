@@ -1,5 +1,10 @@
+PATH
+  remote: .
+  specs:
+    ripdiko (0.2.0)
+      nokogiri
+
 GEM
-  remote: http://rubygems.org/
   specs:
     nokogiri (1.5.6)
 
@@ -7,4 +12,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  nokogiri
+  ripdiko!

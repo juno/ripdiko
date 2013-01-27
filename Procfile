@@ -1,2 +1,2 @@
-tbs: bundle exec ./ripdiko TBS
-joqr: bundle exec ./ripdiko QRR
+tbs: bundle exec ./bin/ripdiko TBS
+joqr: bundle exec ./bin/ripdiko QRR
