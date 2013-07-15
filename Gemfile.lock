@@ -5,6 +5,7 @@ PATH
       nokogiri
 
 GEM
+  remote: https://rubygems.org/
   specs:
     nokogiri (1.5.6)
 
